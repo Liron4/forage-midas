@@ -1,6 +1,4 @@
-general:
-  kafka-topic: transaction-topic
-
+general.kafka-topic: transaction-topic
 spring:
   kafka:
     consumer:
